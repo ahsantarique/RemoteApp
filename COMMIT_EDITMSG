@@ -1,0 +1,37 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# Explicit paths specified without -i or -o; assuming --only paths...
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .idea/misc.xml
+#	modified:   app/src/main/AndroidManifest.xml
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/Config.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/EditProfileActivity.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/FoodIndex.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/FoodItem.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/ItemActivity.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/LoginActivity.java
+#	modified:   app/src/main/java/com/example/ahsan/foodviewbd/MainActivity.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/ProfileActivity.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/RListActivity.java
+#	copied:     app/src/main/java/com/example/ahsan/foodviewbd/MainActivity.java -> app/src/main/java/com/example/ahsan/foodviewbd/RegisterActivity.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/Restaurant.java
+#	new file:   app/src/main/java/com/example/ahsan/foodviewbd/SearchActivity.java
+#	new file:   app/src/main/res/drawable/blue.jpg
+#	new file:   app/src/main/res/layout/activity_edit_profile.xml
+#	new file:   app/src/main/res/layout/activity_items.xml
+#	new file:   app/src/main/res/layout/activity_login.xml
+#	modified:   app/src/main/res/layout/activity_main.xml
+#	new file:   app/src/main/res/layout/activity_profile.xml
+#	copied:     app/src/main/res/layout/activity_main.xml -> app/src/main/res/layout/activity_reg.xml
+#	new file:   app/src/main/res/layout/activity_restaurant.xml
+#	new file:   app/src/main/res/layout/activity_search.xml
+#	new file:   app/src/main/res/layout/list_text.xml
+#	new file:   app/src/main/res/layout/list_view.xml
+#	new file:   app/src/main/res/menu/menu.xml
+#	modified:   app/src/main/res/values/colors.xml
+#	modified:   app/src/main/res/values/strings.xml
+#
